@@ -11,7 +11,7 @@ def code_name(name):
 
 
 # указываем пусть к файлу
-file_path = "C:\\Users\\Admin\\Desktop\\учеба(Марк)\\tabl1.xlsx"
+file_path = "C: ...\\...\\..."
 
 
 
@@ -105,7 +105,7 @@ for result in results:
 
 
 # Сохраняем файл
-output_file_path = "DzTabl1.xlsx"
+output_file_path = "NewTabl1.xlsx"
 output_wp.save(output_file_path)
 
 
